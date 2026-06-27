@@ -19,7 +19,7 @@ This repository contains my Java solutions to LeetCode problems solved as part o
 ## 📈 Progress
 
 - ✅ Problems Solved: **20**
-- 🟢 Easy: **4**
+- 🟢 Easy: **5**
 - 🟡 Medium: **14**
 - 🔴 Hard: **2**
 
@@ -98,6 +98,7 @@ This repository contains my Java solutions to LeetCode problems solved as part o
 - Learn multiple approaches for the same problem.
 
 ---
-
+#👩🏻‍🎓Author
+-Saba Parveen
 
 Happy Coding! 🚀
