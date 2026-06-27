@@ -49,6 +49,7 @@ This repository contains my Java solutions to LeetCode problems solved as part o
 | 18 | 4Sum | Medium | Sorting, Two Pointers | O(n³) | O(1)* |
 | 19 | Remove Nth Node From End of List | Medium | Linked List | O(n) | O(1) |
 | 20 | Valid Parentheses | Easy | Stack | O(n) | O(n) |
+| 21 | Merge Two Sorted Lists | Easy | Linked List | O(n + m) | O(1) |
 
 
 ---
