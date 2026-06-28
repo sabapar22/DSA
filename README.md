@@ -20,7 +20,7 @@ This repository contains my Java solutions to LeetCode problems solved as part o
 
 - ✅ Problems Solved: **20**
 - 🟢 Easy: **5**
-- 🟡 Medium: **14**
+- 🟡 Medium: **15**
 - 🔴 Hard: **2**
 
 ---
@@ -50,6 +50,7 @@ This repository contains my Java solutions to LeetCode problems solved as part o
 | 19 | Remove Nth Node From End of List | Medium | Linked List | O(n) | O(1) |
 | 20 | Valid Parentheses | Easy | Stack | O(n) | O(n) |
 | 21 | Merge Two Sorted Lists | Easy | Linked List | O(n + m) | O(1) |
+| 22 | Generate Parentheses | Medium | Backtracking | O(4ⁿ / √n) | O(n) |
 
 
 ---
@@ -71,22 +72,19 @@ This repository contains my Java solutions to LeetCode problems solved as part o
 
 ---
 
-# 📅 Weekly Progress
+# 🔥 Challenge Progress
 
-### ✅ Week 1
-- Solved foundational Array and String problems.
-- Practiced Binary Search and Linked Lists.
-- Completed the first Hard problem:
-  - **Median of Two Sorted Arrays**
+- 🚀 **Week 1:** 10 Problems Solved
+- 🚀 **Week 2:** 12 Problems Solved
 
-### ✅ Week 2
-- Solved 10 additional problems.
-- Improved understanding of:
-  - Two Pointers
-  - Backtracking
-  - Stack
-  - Dynamic Programming
+---
 
+
+
+### 📈 Current Streak
+**22 / ♾️** 
+
+> *One problem at a time. Consistency over perfection.*
 
 ---
 
