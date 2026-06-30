@@ -20,7 +20,7 @@ This repository contains my Java solutions to LeetCode problems solved as part o
 
 - ✅ Problems Solved: **20**
 - 🟢 Easy: **5**
-- 🟡 Medium: **15**
+- 🟡 Medium: **16**
 - 🔴 Hard: **3**
 
 ---
@@ -52,6 +52,7 @@ This repository contains my Java solutions to LeetCode problems solved as part o
 | 21 | Merge Two Sorted Lists | Easy | Linked List | O(n + m) | O(1) |
 | 22 | Generate Parentheses | Medium | Backtracking | O(4ⁿ / √n) | O(n) |
 | 23 | Merge k Sorted Lists | Hard | Divide & Conquer (Merge Sort), Linked List | O(N log k) | O(log k) |
+| 24 | Swap Nodes in Pairs | Medium | Linked List | O(n) | O(1) | 
 
 
 ---
@@ -84,7 +85,7 @@ This repository contains my Java solutions to LeetCode problems solved as part o
 
 
 ### 📈 Current Streak
-**23 / ♾️** 
+**24 / ♾️** 
 
 > *One problem at a time. Consistency over perfection.*
 
