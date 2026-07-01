@@ -21,7 +21,7 @@ This repository contains my Java solutions to LeetCode problems solved as part o
 - ✅ Problems Solved: **20**
 - 🟢 Easy: **5**
 - 🟡 Medium: **16**
-- 🔴 Hard: **3**
+- 🔴 Hard: **4**
 
 ---
 
@@ -53,6 +53,7 @@ This repository contains my Java solutions to LeetCode problems solved as part o
 | 22 | Generate Parentheses | Medium | Backtracking | O(4ⁿ / √n) | O(n) |
 | 23 | Merge k Sorted Lists | Hard | Divide & Conquer (Merge Sort), Linked List | O(N log k) | O(log k) |
 | 24 | Swap Nodes in Pairs | Medium | Linked List | O(n) | O(1) | 
+| 25 | Reverse Nodes in k-Group | Hard | Linked List, Recursion / Iterative, Pointer Manipulation | O(n) | O(1) |
 
 
 ---
@@ -72,6 +73,7 @@ This repository contains my Java solutions to LeetCode problems solved as part o
 - Dynamic Programming
 - Math
 - Divide & Conquer
+- Recursion
 
 ---
 
@@ -85,7 +87,7 @@ This repository contains my Java solutions to LeetCode problems solved as part o
 
 
 ### 📈 Current Streak
-**24 / ♾️** 
+**25 / ♾️** 
 
 > *One problem at a time. Consistency over perfection.*
 
