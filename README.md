@@ -18,8 +18,8 @@ This repository contains my Java solutions to LeetCode problems solved as part o
 
 ## 📈 Progress
 
-- ✅ Problems Solved: **20**
-- 🟢 Easy: **5**
+- ✅ Problems Solved: **26**
+- 🟢 Easy: **6**
 - 🟡 Medium: **16**
 - 🔴 Hard: **4**
 
@@ -54,6 +54,7 @@ This repository contains my Java solutions to LeetCode problems solved as part o
 | 23 | Merge k Sorted Lists | Hard | Divide & Conquer (Merge Sort), Linked List | O(N log k) | O(log k) |
 | 24 | Swap Nodes in Pairs | Medium | Linked List | O(n) | O(1) | 
 | 25 | Reverse Nodes in k-Group | Hard | Linked List, Recursion / Iterative, Pointer Manipulation | O(n) | O(1) |
+| 26 | Remove Duplicates from Sorted Array | Easy | Array, Two Pointers | O(n) | O(1) |
 
 
 ---
@@ -87,7 +88,7 @@ This repository contains my Java solutions to LeetCode problems solved as part o
 
 
 ### 📈 Current Streak
-**25 / ♾️** 
+**26 / ♾️** 
 
 > *One problem at a time. Consistency over perfection.*
 
