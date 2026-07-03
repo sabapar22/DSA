@@ -18,9 +18,9 @@ This repository contains my Java solutions to LeetCode problems solved as part o
 
 ## 📈 Progress
 
-- ✅ Problems Solved: **26**
-- 🟢 Easy: **6**
-- 🟡 Medium: **16**
+- ✅ Problems Solved: **28**
+- 🟢 Easy: **9**
+- 🟡 Medium: **15**
 - 🔴 Hard: **4**
 
 ---
@@ -55,6 +55,8 @@ This repository contains my Java solutions to LeetCode problems solved as part o
 | 24 | Swap Nodes in Pairs | Medium | Linked List | O(n) | O(1) | 
 | 25 | Reverse Nodes in k-Group | Hard | Linked List, Recursion / Iterative, Pointer Manipulation | O(n) | O(1) |
 | 26 | Remove Duplicates from Sorted Array | Easy | Array, Two Pointers | O(n) | O(1) |
+| 27 | Remove Element | Easy | Array, Two Pointers | O(n) | O(1) |
+| 28 | Find the Index of the First Occurrence in a String | Easy | String, Two Pointers | O((n - m + 1) × m) | O(1) |
 
 
 ---
@@ -82,13 +84,14 @@ This repository contains my Java solutions to LeetCode problems solved as part o
 
 - 🚀 **Week 1:** 10 Problems Solved
 - 🚀 **Week 2:** 12 Problems Solved
+- 🚀 **Week 3:** 6 Problems Solved
 
 ---
 
 
 
 ### 📈 Current Streak
-**26 / ♾️** 
+**28 / ♾️** 
 
 > *One problem at a time. Consistency over perfection.*
 
