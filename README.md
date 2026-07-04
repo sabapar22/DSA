@@ -57,7 +57,7 @@ This repository contains my Java solutions to LeetCode problems solved as part o
 | 26 | Remove Duplicates from Sorted Array | Easy | Array, Two Pointers | O(n) | O(1) |
 | 27 | Remove Element | Easy | Array, Two Pointers | O(n) | O(1) |
 | 28 | Find the Index of the First Occurrence in a String | Easy | String, Two Pointers | O((n - m + 1) × m) | O(1) |
-| 26 | Divide Two Integers | Hard | Bit Manipulation, Binary Search on Quotient | O(log n) | O(1) |
+| 29 | Divide Two Integers | Hard | Bit Manipulation, Binary Search on Quotient | O(log n) | O(1) |
 
 
 ---
