@@ -18,9 +18,9 @@ This repository contains my Java solutions to LeetCode problems solved as part o
 
 ## 📈 Progress
 
-- ✅ Problems Solved: **28**
+- ✅ Problems Solved: **29**
 - 🟢 Easy: **9**
-- 🟡 Medium: **15**
+- 🟡 Medium: **16**
 - 🔴 Hard: **4**
 
 ---
@@ -57,6 +57,7 @@ This repository contains my Java solutions to LeetCode problems solved as part o
 | 26 | Remove Duplicates from Sorted Array | Easy | Array, Two Pointers | O(n) | O(1) |
 | 27 | Remove Element | Easy | Array, Two Pointers | O(n) | O(1) |
 | 28 | Find the Index of the First Occurrence in a String | Easy | String, Two Pointers | O((n - m + 1) × m) | O(1) |
+| 26 | Divide Two Integers | Hard | Bit Manipulation, Binary Search on Quotient | O(log n) | O(1) |
 
 
 ---
@@ -84,14 +85,14 @@ This repository contains my Java solutions to LeetCode problems solved as part o
 
 - 🚀 **Week 1:** 10 Problems Solved
 - 🚀 **Week 2:** 12 Problems Solved
-- 🚀 **Week 3:** 6 Problems Solved
+- 🚀 **Week 3:** 7 Problems Solved
 
 ---
 
 
 
 ### 📈 Current Streak
-**28 / ♾️** 
+**29 / ♾️** 
 
 > *One problem at a time. Consistency over perfection.*
 
