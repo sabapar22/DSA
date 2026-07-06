@@ -18,9 +18,9 @@ This repository contains my Java solutions to LeetCode problems solved as part o
 
 ## 📈 Progress
 
-- ✅ Problems Solved: **30**
+- ✅ Problems Solved: **31**
 - 🟢 Easy: **9**
-- 🟡 Medium: **16**
+- 🟡 Medium: **17**
 - 🔴 Hard: **5**
 
 ---
@@ -59,6 +59,7 @@ This repository contains my Java solutions to LeetCode problems solved as part o
 | 28 | Find the Index of the First Occurrence in a String | Easy | String, Two Pointers | O((n - m + 1) × m) | O(1) |
 | 29 | Divide Two Integers | Hard | Bit Manipulation, Binary Search on Quotient | O(log n) | O(1) |
 | 30 | Substring with Concatenation of All Words | Hard | Sliding Window, HashMap | O(n × k) | O(m) |
+| 31 | Next Permutation | Medium | Two Pointers, Array | O(n) | O(1) |
 
 
 ---
@@ -86,14 +87,14 @@ This repository contains my Java solutions to LeetCode problems solved as part o
 
 - 🚀 **Week 1:** 10 Problems Solved
 - 🚀 **Week 2:** 12 Problems Solved
-- 🚀 **Week 3:** 8 Problems Solved
+- 🚀 **Week 3:** 9 Problems Solved
 
 ---
 
 
 
 ### 📈 Current Streak
-**30 / ♾️** 
+**31 / ♾️** 
 
 > *One problem at a time. Consistency over perfection.*
 
