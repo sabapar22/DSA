@@ -18,10 +18,10 @@ This repository contains my Java solutions to LeetCode problems solved as part o
 
 ## 📈 Progress
 
-- ✅ Problems Solved: **31**
+- ✅ Problems Solved: **32**
 - 🟢 Easy: **9**
 - 🟡 Medium: **17**
-- 🔴 Hard: **5**
+- 🔴 Hard: **6**
 
 ---
 
@@ -60,6 +60,7 @@ This repository contains my Java solutions to LeetCode problems solved as part o
 | 29 | Divide Two Integers | Hard | Bit Manipulation, Binary Search on Quotient | O(log n) | O(1) |
 | 30 | Substring with Concatenation of All Words | Hard | Sliding Window, HashMap | O(n × k) | O(m) |
 | 31 | Next Permutation | Medium | Two Pointers, Array | O(n) | O(1) |
+| 32 | Longest Valid Parentheses | Hard | Stack, Dynamic Programming | O(n) | O(n) |
 
 
 ---
@@ -94,7 +95,7 @@ This repository contains my Java solutions to LeetCode problems solved as part o
 
 
 ### 📈 Current Streak
-**31 / ♾️** 
+**32 / ♾️** 
 
 > *One problem at a time. Consistency over perfection.*
 
